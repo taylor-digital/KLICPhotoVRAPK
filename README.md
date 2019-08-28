@@ -2,13 +2,17 @@
 
 ## What is This?
 
-This is a sample VR application for Oculus Quest that builds a virtual art gallery and will even allow someone to buy a custom photo product using our KLIC Photo (Lifepics) API.  KLIC Photo (formerly Lifepics) offers a complete omnichannel ecommerce platform for your photo needs and is used by many photo stores, grocery chains and anyone interested in selling photo products or services.  If you are interested in building apps like this one against our API, you will want to contact us.  Just send an email to sales@taylordigital.io telling us that you are interested in creating an app or hosting a photo site on our platform.
+This is a sample VR application for Oculus Quest that builds a virtual art gallery and will even allow someone to buy a custom photo product using our KLIC Photo (Lifepics) API.  KLIC Photo (formerly Lifepics) offers a complete omnichannel ecommerce platform for your photo needs and is used by many photo stores, grocery chains and anyone interested in selling photo products or services.  
 
 This was meant as a starting point and example for our partners on using new channel types to expand user engangement and increase conversion.
 
-Due to licensing issues, I cannot post the source code in a public repo but I have included the APK below so it can be loaded.  If you are interested in the source code and are a Lifepics/KLIC Photo partner, please contact us at sales@taylordigital.io
+Due to licensing issues, I cannot post the source code in a public repo but I have included the APK so it can be loaded.  If you are interested in the source code and are a Lifepics/KLIC Photo partner, just contact us.
 
-If you are interested in leveraging our photo platform for your business, please contact sales@taylordigital.io!
+If you are interested in building apps like this one against our API, you will want to contact us.  Just send an email to sales@taylordigital.io telling us that you are interested in creating an app or hosting a photo site on our platform.  We offer a complete omnichannel photo solution across Web, Kiosk, and headless options for creative solutions like this one.
+
+You can see a complete video of the app here:
+
+https://www.youtube.com/watch?v=2-utLyy_3PI
 
 ## Summary of the VR App
 
@@ -34,11 +38,17 @@ This was built using Unity 2019.2.0f1 and the latest Oculus Integration SDK.  It
 
 ## Sideloading Instructions
 
+If you have an Oculus Quest and want to try it out for yourself, you will need to manually install (or sideload) the application onto your headset.  Instructions for this are available here:
 
+https://uploadvr.com/how-to-sideload-apps-oculus-go/
 
 ## Using your Own Photos
 
+To see your own photos in the photo gallery, just create an account on our test site at:
 
+https://photo.cuat.lifepics.com
+
+Once you create an account, create an album by going to the account area and just upload a bunch of photos into it.  The VR App will use your most recent photo album.
 
 
 
