@@ -24,7 +24,7 @@ This app begins by generating a Virtual Reality art gallery based on photos dyna
 
 It also has a dynamic product generator that will create a personalized photo product (coffee mug) you can hold, examine, play with and purchase right within VR based on the photos from your photo library!  Doing this requires real-time manipulation of the base texture for the mug to inject a photo correctly and get it to match what will be produced.   I am not very good at creating 3D models but I found a coffee mug asset that has a photo area with an aspect ratio very close to our Lifepics 11 oz mug.  I was able to tweak this so it matched and it absolutely matches production (I verified this in MediaClip). This is very doable as long as the model created follows some guidelines in how the UV map is created (more on that later).
 
-![Purchase](http://mobilefission.io/wp-content/uploads/2019/07/shopgif.gif "Purchase Preview")
+![Purchase](http://mobilefission.io/wp-content/uploads/2019/08/final.gif "Purchase Preview")
 
 Buying the product is as simple as placing it on the shopping cart pad.  It detects a generated product and allows you to check out with your default shipping address in Lifepics. Similar to the Alexa Skill prototype I created a few years ago, if you want to ship to a different address instead you can simply add the configured item to your cart and you can complete checkout on your computer or phone.  This is thanks to the fact that KLIC Photo is an omni-channel ecommerce system.
 
